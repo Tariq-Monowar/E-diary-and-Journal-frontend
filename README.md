@@ -1,4 +1,4 @@
 # E-diary
-project Link:- https://silver-tiramisu-9ea62f.netlify.app/
+project Link:- https://e-diarys.netlify.app/
 
 it's a simple complete MERN Stack project
